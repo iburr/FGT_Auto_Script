@@ -1,4 +1,4 @@
-# FGT_Auto_Script
+# FORTIGATE AUTOMATION SCRIPT
 
 # FortiGate ACL Automation with Netmiko
 
