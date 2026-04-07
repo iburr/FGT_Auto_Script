@@ -38,7 +38,7 @@ It is especially useful for quickly updating **outbound ACLs**, trust hosts, or 
 
 ## Requirements
 
-- **Python**: 3.9 or higher (tested up to 3.13 and 3.11.9)
+- **Python**: 3.9 or higher (tested on 3.11.9 and 3.13)
 
 ### Install Dependencies
 
