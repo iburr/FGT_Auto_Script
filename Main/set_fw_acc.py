@@ -23,9 +23,9 @@ Devices: List[Dict] = [
 set_commands = [
     "config sys admin\n",
     "edit admin1\n", 
-    "set trusthost1 192.168.102.10/28\n",
-    "set trusthost2 10.10.80.1/29\n",
-    "set trusthost3 21.2.14.1/29\n",
+    # "set trusthost1 192.168.102.10/28\n",
+    # "set trusthost2 10.10.80.1/29\n",
+    # "set trusthost3 21.2.14.1/29\n",
 ]  # Will differ depending on vendor OS
 
 
